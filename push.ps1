@@ -11,7 +11,7 @@ Write-Host "Adding files..."
 & $git add .
 
 Write-Host "Committing..."
-& $git commit -m "ML model inserted"
+& $git commit -m "Changes"
 
 Write-Host "Setting main branch..."
 & $git branch -M main
