@@ -1,0 +1,10 @@
+data/
+ data/
+logs/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+github_updates/
+*.zip
